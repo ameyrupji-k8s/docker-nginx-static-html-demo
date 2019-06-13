@@ -6,8 +6,8 @@
 
 ## System Configuration at time of test 
 
-- MacOS 
-- Docker
+- MacOS - 
+- Docker - 
 
 ## Build Image
 
