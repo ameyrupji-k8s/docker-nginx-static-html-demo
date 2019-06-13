@@ -24,3 +24,4 @@ Run the following command to ensure the server is running:
 `curl localhost:45678`
 
 You can also view it in the browser now by going to `localhost:45678` and you should see your HTML:
+![docker-nginx-static-html-demo-image](images/docker-nginx-static-html-demo-image.png?raw=true "Browser Shreenshot")
