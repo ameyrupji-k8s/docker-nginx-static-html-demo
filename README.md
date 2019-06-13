@@ -4,6 +4,11 @@
 
 - docker installed 
 
+## System Configuration at time of test 
+
+- MacOS 
+- Docker
+
 ## Build Image
 
 Run the following command on the terminal:
