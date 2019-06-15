@@ -6,8 +6,8 @@
 
 ## System Configuration at time of test 
 
-- MacOS - 
-- Docker - 
+- macOS Mojave - Version 10.14.5 
+- Docker Desktop - Version 2.0.0.3 (31259)
 
 ## Build Image
 
