@@ -17,7 +17,7 @@ To build the docker image run the following command on the terminal:
 To list the created docker images run the command on the terminal:
 `docker images`
 
-![docker-nginx-static-html-demo-docker-list-image](images/docker-nginx-static-html-demo-docker-list-image.png?raw=true "Terminal Docker List Images Shreenshot")
+![docker-nginx-static-html-demo-docker-list-image](images/docker-nginx-static-html-demo-docker-list-image.png?raw=true "Terminal Docker List Images Screenshot")
 
 ## Run the Docker Container
 
@@ -27,16 +27,16 @@ Run the following command to spin up the container server:
 To list all the containers running run this command on the terminal:
 `docker ps -a`
 
-![docker-nginx-static-html-demo-list-container-image](images/docker-nginx-static-html-demo-list-container-image.png?raw=true "Terminal Docker List Containers Shreenshot")
+![docker-nginx-static-html-demo-list-container-image](images/docker-nginx-static-html-demo-list-container-image.png?raw=true "Terminal Docker List Containers Screenshot")
 
 ## Test
 
 Run the following command to ensure the server is running:
 `curl localhost:45678`
 
-You can also view it in the browser by going to `localhost:45678` and the HTML page sililar the the onw below will show up:
+You can also view it in the browser by going to `localhost:45678` and the HTML page similar the the one below will show up:
 
-![docker-nginx-static-html-demo-browser-image](images/docker-nginx-static-html-demo-browser-image.png?raw=true "Browser Shreenshot")
+![docker-nginx-static-html-demo-browser-image](images/docker-nginx-static-html-demo-browser-image.png?raw=true "Browser Screenshot")
 
 
 # Cleanup
@@ -50,4 +50,4 @@ To delete the container that was created use this command
 To delete the docker image that was created 
 `docker rmi {image_id}`
 
-![docker-nginx-static-html-demo-cleanup-image](images/docker-nginx-static-html-demo-cleanup-image.png?raw=true "Terminal Docker Cleanup Shreenshot")
+![docker-nginx-static-html-demo-cleanup-image](images/docker-nginx-static-html-demo-cleanup-image.png?raw=true "Terminal Docker Cleanup Screenshot")
