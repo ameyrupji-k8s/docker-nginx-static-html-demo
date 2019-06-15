@@ -35,6 +35,7 @@ Run the following command to ensure the server is running:
 `curl localhost:45678`
 
 You can also view it in the browser by going to `localhost:45678` and the HTML page sililar the the onw below will show up:
+
 ![docker-nginx-static-html-demo-browser-image](images/docker-nginx-static-html-demo-browser-image.png?raw=true "Browser Shreenshot")
 
 
