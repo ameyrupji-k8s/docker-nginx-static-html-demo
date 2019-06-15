@@ -17,7 +17,7 @@ Run the following command on the terminal:
 To list the created images run the command on the terminal:
 `docker images`
 
-**TODO:** Add image here
+![docker-nginx-static-html-demo-docker-list-image](images/docker-nginx-static-html-demo-docker-list-image.png?raw=true "Terminal Docker List Images Shreenshot")
 
 ## Run the Docker Container
 
@@ -27,7 +27,7 @@ Run the following command to run the HTML container server:
 To list all the containers running run this command on the terminal:
 `docker ps -a`
 
-**TODO:** Add image here
+![docker-nginx-static-html-demo-list-container-image](images/docker-nginx-static-html-demo-list-container-image.png?raw=true "Terminal Docker List Containers Shreenshot")
 
 ## Test
 
@@ -35,7 +35,7 @@ Run the following command to ensure the server is running:
 `curl localhost:45678`
 
 You can also view it in the browser now by going to `localhost:45678` and you should see your HTML:
-![docker-nginx-static-html-demo-image](images/docker-nginx-static-html-demo-image.png?raw=true "Browser Shreenshot")
+![docker-nginx-static-html-demo-browser-image](images/docker-nginx-static-html-demo-browser-image.png?raw=true "Browser Shreenshot")
 
 
 # Cleanup
@@ -48,3 +48,6 @@ To delete the container that was created use this command
 
 To delete the docker image that was created 
 `docker rmi {image_id}`
+
+![docker-nginx-static-html-demo-cleanup-image](images/docker-nginx-static-html-demo-cleanup-image.png?raw=true "Terminal Docker Cleanup Shreenshot")
+
