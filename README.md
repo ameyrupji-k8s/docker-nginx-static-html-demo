@@ -41,13 +41,13 @@ You can also view it in the browser by going to `localhost:45678` and the HTML p
 
 # Cleanup
 
-To stop the container that is running use this command 
+To stop the container that is running use this command: 
 `docker stop {container_id}`
 
-To delete the container that was created use this command
+To delete the container that was created use this command:
 `docker rm {container_id}`
 
-To delete the docker image that was created 
+To delete the docker image that was created: 
 `docker rmi {image_id}`
 
 ![docker-nginx-static-html-demo-cleanup-image](images/docker-nginx-static-html-demo-cleanup-image.png?raw=true "Terminal Docker Cleanup Screenshot")
