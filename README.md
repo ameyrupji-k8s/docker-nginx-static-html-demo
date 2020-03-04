@@ -1,3 +1,6 @@
+| ◂ Previous |
+|-----|
+
 # docker-nginx-static-html-demo
 
 ## Prerequisites 
@@ -51,3 +54,6 @@ To delete the docker image that was created:
 `docker rmi {image_id}`
 
 ![docker-nginx-static-html-demo-cleanup-image](images/docker-nginx-static-html-demo-cleanup-image.png?raw=true "Terminal Docker Cleanup Screenshot")
+
+| [Next ▸](https://github.com/ameyrupji-k8s/k8s-docker-nginx-static-html-demo) |
+|-----|
